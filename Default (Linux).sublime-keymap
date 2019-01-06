@@ -1,0 +1,7 @@
+[
+    {
+        "command": "anaconda_rust_fmt", "keys": ["ctrl+alt+r"], "context": [
+            {"key": "selector", "operator": "equal", "operand": "source.rust"},
+        ]
+    }
+]

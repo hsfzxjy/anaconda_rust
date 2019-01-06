@@ -38,7 +38,7 @@
 		Set this to false if you don't want anaconda to format
 		your files when you save them
 	*/
-	"rust_format_on_save": true,
+	"rust_format_on_save": false,
 
 	/*
 		This id the default time that anaconda will wait for rustfmt to finish
